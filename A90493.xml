@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect table of one hundred forty and five victories obtained by the Lord Lieutenant of Ireland, and the Parliaments forces under his command, since his excellency was made governor generall by the Parliament of England from VVednesday August i. 1649. to March the last, 1650. VVith a briefe chronicle of these matters of the Irish vvares, from that time to this present.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90493</idno>
+            <idno type="STC">Wing P1524</idno>
+            <idno type="STC">Thomason 669.f.15[26]</idno>
+            <idno type="STC">ESTC R212098</idno>
+            <idno type="EEBO-CITATION">99870748</idno>
+            <idno type="PROQUEST">99870748</idno>
+            <idno type="VID">123143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123143)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect table of one hundred forty and five victories obtained by the Lord Lieutenant of Ireland, and the Parliaments forces under his command, since his excellency was made governor generall by the Parliament of England from VVednesday August i. 1649. to March the last, 1650. VVith a briefe chronicle of these matters of the Irish vvares, from that time to this present.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, and are to be sold by William Ley at Pauls Chain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an equestrian engraving of Oliver Cromwell.</note>
+                  <note>Annotation on Thomason copy: "Aprill 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_victories">
+            <pb facs="tcp:123143:1" rendition="simple:additions"/>
+            <head>A Perfect Table of one hundred forty and Five Victories obtained by the Lord Lieutenant of <hi>Ireland,</hi> and the Parliaments Forces under his Command, ſince his Excellency was made Governour Generall by the Parliament of <hi>England;</hi> From VVedneſday Auguſt 1. 1649. to March the laſt, 1650. VVith a briefe Chronicle of the chiefe matters of the Iriſh VVarres, from that time to this preſent.</head>
+            <p>
+               <figure>
+                  <head>
+                     <hi>THE</hi> Right Honorable <hi>and vndaunted Warrior OLIVER CROMWELL Lo: Governour of IRELAND</hi>
+                  </head>
+                  <byline>London printed and are to be ſold by Peter Stent</byline>
+               </figure>
+            </p>
+            <p>
+               <seg rend="decorInit">O</seg>N Wedneſday Auguſt 1. 1649. was kept by Act of Parliament a publicke Faſt throughout <hi>England</hi> and <hi>Wales</hi> appointed to call upon God for a bleſſing upon the Lord Lieutenant <hi>Crumwels</hi> Forces, againſt the Papiſts, and others the Enemies of the Parliament of <hi>England,</hi> in <hi>Ireland,</hi> which hath had from God theſe returnes following, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1 The Lord Lieutenant being then in <hi>Southwales,</hi> found his Forces come up to goe over with him with much union, notwithſtanding the endeavours of the Ene<g ref="char:EOLhyphen"/>my to divert them.</item>
+               <item>2 There were 3000 of his Forces ſafely arrived at <hi>Dublin,</hi> from <hi>Cheſter, Liverpoole,</hi> and other Ports there<g ref="char:EOLhyphen"/>abouts, which made up Lieutenant Generall <hi>Jones</hi> 8000 ſtrong in <hi>Dublin,</hi> which was then blocked up by the Marqueſſe of <hi>Ormond,</hi> the Lord <hi>Inchequeen,</hi> and Major Generall <hi>Preſton,</hi> who had the whole command of all <hi>Ireland</hi> then in their power, except onely that Garriſon of <hi>Dublin,</hi> in <hi>Lemſter,</hi> and <hi>London-Derry</hi> in the North of <hi>Ireland,</hi> kept by Sir <hi>Charles Coot,</hi> which was then alſo blockt up, and the Fort at the River-mouth alſo of <hi>Derry</hi> taken by Sir <hi>Robert Stuart,</hi> and Col. <hi>Mervin,</hi> who commanded the Forces in the ſiege at <hi>Derry.</hi>
+               </item>
+               <item>3 Captaine <hi>Norway</hi> with a party of the Horſe from the Lord Lieutenant, and ſome additionall Horſe of <hi>Dublin</hi> ſallyed out, and killed 40 of <hi>Ormonds</hi> men, and tooke Mr. <hi>Elliot</hi> (who was afterwards hanged) and Cap. <hi>Baskerfield,</hi> with other priſoners.</item>
+               <item>4 Auguſt the 2. Lieutenant Generall <hi>Jones</hi> ſallied out of <hi>Dublin,</hi> and tooke <hi>Baggotſrath</hi> from the Marqueſſe of <hi>Ormond.</hi>
+               </item>
+               <item>5 Afterwards the ſame day he routed their whole body, ſave onely ſome Horſe that were then gone with the Lord <hi>Inchequeen</hi> towards <hi>Munſter.</hi> At which time 4000 of <hi>Ormonds</hi> men were ſlaine by two houres fight, and 2517 taken priſoners. There were alſo taken 8000 Armes, 100 Colours, 7 peece of Ordnance, 200 draught Oxen, 500 Tents, divers Carriages, Coaches, Boxes, Trunks, great ſtore of Treaſure, and Merchandiſe which was in their Tents: And there were taken pri<g ref="char:EOLhyphen"/>ſoners the Earle of <hi>Frigall,</hi> two Colonels, the adjutant Generall, 6 Lieutenant Collonels, 8 Majors, 41 Cap<g ref="char:EOLhyphen"/>taines, 58 Lieutenants, 42 Enſignes, and divers Knights, Gentlemen, and inferiour Officers.</item>
+               <item>6 On the 3 of Auguſt, Lieutenant Generall <hi>Jones</hi> re<g ref="char:EOLhyphen"/>duced the Garriſon of <hi>Rathgar.</hi>
+               </item>
+               <item>7 After that he took in <hi>Ramaines.</hi>
+               </item>
+               <item>8 Then <hi>Rachfarnham</hi> alſo was taken by him.</item>
+               <item>9 The ſame weeke he took <hi>Maneuth.</hi>
+               </item>
+               <item>10 After that the Garriſon at the <hi>Naas.</hi>
+               </item>
+               <item>11 <hi>Denabadle</hi> was then taken.</item>
+               <item>12 And <hi>Richardſtoun</hi> alſo taken by him.</item>
+               <item>13 He tooke alſo the <hi>Phenix,</hi> the ſtrong houſe of the late Earle of <hi>Strafford,</hi> neare the City of <hi>Dublin.</hi>
+               </item>
+               <item>14 He re<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed alſo the Garriſon of <hi>Drumconough.</hi>
+               </item>
+               <item>15 And about the ſame time tooke the Garriſon of <hi>Decabragh.</hi>
+               </item>
+               <item>16 The 8 of <hi>August,</hi> was kept a day of Thankſgiving to the Lord, in the City of <hi>Dublin,</hi> for theſe and all o<g ref="char:EOLhyphen"/>ther his great mercies to them.</item>
+               <item>17 Sir <hi>Charles Coot</hi> about the ſame time, ſallied out of <hi>London-Derry,</hi> and with the aſſiſtance of ſupplies, raiſed the ſiege, foreing the Enemy to retire.</item>
+               <item>18 Sir <hi>Charles Coot</hi> purſued Sir <hi>Robert Stuart,</hi> and Col. <hi>Mervin,</hi> 12 miles, and took two peece of Ord<g ref="char:EOLhyphen"/>nance, and ſome priſoners.</item>
+               <item>19 The 13 of <hi>Auguſt,</hi> the Lord Lieutenant, with his Armado being ready in <hi>Southwales,</hi> ſet out firſt himſelfe to Sea towards <hi>Ireland,</hi> with 32 ſhips from <hi>Milford-haven,</hi> leaving Major Generall <hi>Ireton</hi> to follow with more.</item>
+               <item>20 The 16 of <hi>Auguſt,</hi> Major Gen. <hi>Ireton</hi> ſet out from thence with 42 ſale of ſhips, all which, with ſome o<g ref="char:EOLhyphen"/>thers, to the number in whole of about 100 arrived ſafe at <hi>Dublin</hi> about a weekafter they firſt ſet out.</item>
+               <item>21 In the interim, Sir <hi>Charles Coot</hi> in the North of <hi>Ireland</hi> took the New Fort, and ſo relieved himſelfe by Sea.</item>
+               <item>22 He tooke alſo the <hi>Slagh</hi> Caſtle.</item>
+               <item>23 He tooke <hi>Meugavelin.</hi>
+               </item>
+               <item>24 He reduced the Garriſon at <hi>Newbridge,</hi> and tooke divers priſoners.</item>
+               <item>25 On the 1 of <hi>September,</hi> the Lord Lieutenant marched out of <hi>Dublin,</hi> with his Army, for the reducing of the Country to the obedience of the Parliament of <hi>England,</hi> and divers came in to his Excellency.</item>
+               <item>26 About a week after his Excellency beſieged <hi>Drog<g ref="char:EOLhyphen"/>heda,</hi> where ſome diſſerted, and came in to him.</item>
+               <item>27 On <hi>Sept.</hi> 11 <hi>Drogheda</hi> was taken by ſtorme, by the Lord Lieutenant and his Forces, who ſlew Sir <hi>Arthur Aſton</hi> the Governour, Sir <hi>Robert Hartlepool,</hi> and ſome Itiſh young Lords, and 4 Collonels, 42 Captaines, and Lieutenant Collonels, and Majors, 44 Lieutenants, 220 Reformadoes, and Troopets, almoſt all the Officers of 44 companies, and 2500 foot ſouldiers.</item>
+               <item>28 On the 12 of <hi>Sept.</hi> his Excellency reduced the Gar<g ref="char:EOLhyphen"/>riſon of <hi>Trim.</hi>
+               </item>
+               <item>29 He took alſo <hi>Dandalke.</hi>
+               </item>
+               <item>30 That day Mr. <hi>Peters</hi> the Miniſter, came to <hi>Dublin</hi> from <hi>Milford</hi> with the reſt of the Forces to joyne with his Excellency.</item>
+               <item>31 In the Interim, Col. <hi>Venables</hi> tooke <hi>Carlingford</hi> in <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he North of <hi>Ireland,</hi> with the three Caſtles, and the Fort belonging thereunto, and in them 40 barrels of Gun<g ref="char:EOLhyphen"/>powder 7 peece of Ordnance, 1000 Muskets, and 500 Pikes.</item>
+               <item>32 Col. <hi>Venables</hi> tooke the Gariſon of the <hi>Newry.</hi>
+               </item>
+               <item>33 Col. <hi>Venables</hi> afterwards routed 800 Horſe, commanded by Col. <hi>Marke Trevor,</hi> kil<g ref="char:EOLhyphen"/>led and took divers, himſelfe, and others of note hardly eſcaping.</item>
+               <item>34 The Lord Lieut. in this Month of <hi>Sept.</hi> took <hi>Killingkericke.</hi>
+               </item>
+               <item>35 His Excellency alſo reduced the Garri<g ref="char:EOLhyphen"/>ſon at <hi>Arklow</hi> Paſſage.</item>
+               <item>36 His Excellency took the ſtrong Garriſon of <hi>Eſmond</hi> Houſe.</item>
+               <item>37 Afterwards his Excellency tooke the Caſtle of <hi>Fernes.</hi>
+               </item>
+               <item>38 He took alſo the Fort at <hi>Slane</hi> Paſſage, of great conſequence.</item>
+               <item>39 Then his Excellency reduced the Caſtle of <hi>Enisſcorfie,</hi> belonging to Mr. <hi>Wallop,</hi> where <hi>Ormond</hi> had put a Gariſon.</item>
+               <item>40 The 1 of <hi>October,</hi> the Lord Lieutenant marched to <hi>Wexford,</hi> and ſummoned it.</item>
+               <item>41 The 2 of <hi>Oct.</hi> his Excellency took the Fort which commands the harbour at <hi>Wexford</hi>
+               </item>
+               <item>42 A party of his Excellencies Foot, by the helpe of ſome Veſſels took the Earle of <hi>Antrims</hi> Frigot with 14 Guns.</item>
+               <item>43 On the 11 of <hi>October,</hi> his Excellency took <hi>Wexford</hi> by ſtorme, and in it 51 peece of Ord<g ref="char:EOLhyphen"/>nance, beſides thoſe in Ships, 40 Veſſells in the harbour, great ſtore of plunder, 2000 were ſlaine of <hi>Ormonds</hi> ſouldiers in the Town.</item>
+               <item>44 Col. <hi>Venables</hi> took <hi>Liſnegarvy</hi> Gariſon.</item>
+               <item>45 He reduced the Gariſon of <hi>Autrim.</hi>
+               </item>
+               <item>46 Col. <hi>Venables</hi> took the Scots ſtrong Gariſon of <hi>Belſaft,</hi> with 15 piece of Ordnance, and 12 barrells of Gunpowder, and 800 Scots were afterwards turned out of the Town, whither they had brought their wives and children to plant themſelves there.</item>
+               <item>47 Sir <hi>Charles Coot</hi> took the Gariſon of <hi>Colraine,</hi> and put all in Armes to the Sword, and from thence marched to conjunction with Col. <hi>Venables.</hi>
+               </item>
+               <item>48 On the 18 of <hi>Octob.</hi> the Lord Lieut. redu<g ref="char:EOLhyphen"/>ced the ſtrong Gariſon of <hi>Roſſe,</hi> a place of great conſequence, in which were ſtore of Ordnance and Ammunition, and about this time <hi>Owen Ro Oneal,</hi> Generall of the Iriſh Rebels dyed, im<g ref="char:EOLhyphen"/>mediately after he had entred into a conjunction with the Marqueſſe of <hi>Ormond.</hi>
+               </item>
+               <item>49 Upon the 1 of <hi>November,</hi> Major <hi>Nelſon</hi> routed 1600 Horſe and Foot about 7 miles from <hi>Wexford</hi> commanded by the Lord <hi>Inche<g ref="char:EOLhyphen"/>queen,</hi> and took <hi>Inchequeens</hi> own Standard<g ref="char:punc">▪</g> and divers killed and taken, the purſuit being halfe a mile.</item>
+               <item>50 The 13 of <hi>November,</hi> the Lord Lieute<g ref="char:EOLhyphen"/>nant marched from <hi>Roſſe</hi> with 4000 Foot, and 2000 Horſe, and forced <hi>Inchequeen</hi> to withdraw at a further diſtance.</item>
+               <item>51 His Excellency took <hi>Exisbeough</hi> Gariſon that was kept by 300 of the Marqueſſe of <hi>Or<g ref="char:EOLhyphen"/>monds</hi> Foot.</item>
+               <item>52 His Excellency reduced the Gariſon of <hi>Timterne.</hi>
+               </item>
+               <item>53 His Excellency forced the Enemy from <hi>Bandonbridge,</hi> and tooke it.</item>
+               <item>54 His Excellency alſo reduced the Gariſon of <hi>Dunbardy.</hi>
+               </item>
+               <item>55 His Excellency proceeded on with ſuc<g ref="char:EOLhyphen"/>ceſſe, and took the ſtrong Gariſon and Fort of <hi>Kingſale,</hi> from whence Prince <hi>Rupert,</hi> and <hi>Maurice,</hi> with ſome of their ſhips were fled, onely three of their ſhips they had left behinde which were taken for the uſe of the Parliament of <hi>England.</hi>
+               </item>
+               <item>56 The Lord Lieutenant took the Caſtle of <hi>Carick.</hi>
+               </item>
+               <item>57 His Excellency the 24 of <hi>Novem.</hi> aſſaul<g ref="char:EOLhyphen"/>ted <hi>Waterford</hi> round, and ſlew neare 500 of the Defendants.</item>
+               <item>58 His Excellency took the Paſſage Fort.</item>
+               <item>59 On the 2 of <hi>December,</hi> the Lord Lieute<g ref="char:EOLhyphen"/>nant entred poſſeſſion of the Caſtle of <hi>Kilmac Thomas.</hi>
+               </item>
+               <item>60 The 3 of <hi>December,</hi> the Lord <hi>Broghill</hi> reduced <hi>Dungarvon</hi> to the Parliament, with 1200 of <hi>M<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſter</hi> Foot and Horſe, where hee took 6 peece of Ordnance, 16 barrels of pow<g ref="char:EOLhyphen"/>der, and great ſtore of Ammunition.</item>
+               <item>61 Col. <hi>Zanchy</hi> from the Lord Lieutenant fel on the Reare of Lieutenant Generall <hi>Farrell,</hi> who had marched out of <hi>Waterford,</hi> and ſlew 30 on the place, and killed and wounded di<g ref="char:EOLhyphen"/>vers in purſuit.</item>
+               <item>62 Col. <hi>Zanchy</hi> relieved Paſſage Fort, be<g ref="char:EOLhyphen"/>ſieged by Col. <hi>W<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ogan</hi> a revolter, with 900 of <hi>Ormonds</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>lſter</hi> Foot, and there were ſlaine of the beſiegers near 100 on the place, and Col. <hi>Zanchy</hi> took 350 priſoners, amongſt which Major <hi>Oncale,</hi> and moſt of the Officers of 500 of the <hi>
+                     <g ref="char:V">Ʋ</g>lſter</hi> foot.</item>
+               <item>63 He forced Lieu. Gen. <hi>Farrald</hi> to retreat back to <hi>Waterford,</hi> who was comming to have joyned with Col. <hi>Woogan.</hi>
+               </item>
+               <item>64 The Lord Lieut. took Caſtle <hi>Cape Cleere,</hi> with the Ordnance and Ammunition.</item>
+               <item>65 Sir <hi>Charles Coot,</hi> and Col. <hi>Venables</hi> being joyned fought with the Lord <hi>Ards,</hi> and the L. <hi>Clanduboyes</hi> and their forces, in the North of <hi>Ireland</hi> near <hi>Liſnegarvy,</hi> conſiſting of 2800 horſe and foot, and ſlew 1000 on the place, and 400 in purſuit, took all their foot Armes, and 500 horſe, 8 barrels of powder, and all their bag<g ref="char:EOLhyphen"/>gage, Col. <hi>Hinderſon,</hi> Col. <hi>Hambleten,</hi> and di<g ref="char:EOLhyphen"/>vers of note ſlain.</item>
+               <item>66 After this <hi>Killileague</hi> was taken.</item>
+               <item>67 Maj. <hi>Stanley</hi> took <hi>Duncree,</hi> a Gariſon of <hi>Ormends</hi>
+               </item>
+               <item>68 He routed a ſmall party near <hi>Druns</hi> Caſtle.</item>
+               <item>69 About this time about 1500 Recruits landed at <hi>Dublin,</hi> from <hi>eheſter</hi> and <hi>Liverpool.</hi>
+               </item>
+               <item>70 They relieved <hi>Killum mic Carick</hi> Caſtle, and for<g ref="char:EOLhyphen"/>ced the Enemy to retreat.</item>
+               <item>71 On the 13 <hi>Decem.</hi> Sir <hi>Charles Coot</hi> took poſſeſſion of <hi>Carickfergus,</hi> reducing it to the obedience of the Par<g ref="char:EOLhyphen"/>liament, and turned out moſt of the Scots that had planted their families there.</item>
+               <item>72 After this the L. <hi>Clanduboys</hi> ſubmitted to mercy.</item>
+               <item>73 Co. <hi>Hewſon</hi> raiſed the Enemy from before <hi>Arklow</hi> Caſtle, and relieved it with victuall's and powder.</item>
+               <item>74 800 <hi>Duncenon</hi> and <hi>Ulſter</hi> Forces were ſlain all but a few, in the leagure at Paſſage Fort by 5 Troop of the L. Lieu. horſe, Col. <hi>VVoogan</hi> made an eſcape.</item>
+               <item>75 Col. Sir <hi>Ha<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d VValler</hi> with Recruits from the Weſt of <hi>England,</hi> landed at <hi>Kingſale,</hi> and from thence marched, and is joyned with the L. Lieutenant.</item>
+               <item>76 Col. <hi>Hewſon</hi> took the gariſon of <hi>Blackdich.</hi>
+               </item>
+               <item>77 He alſo took <hi>Caſtle Martin Kildare, Hertwell,</hi> and <hi>Cotlingſtoun.</hi>
+               </item>
+               <item>78 On the 1 of Jan. Col. <hi>Hewſon</hi> marched into the County of <hi>Kildare</hi> with 700 horſe and relieved the Country from the plundering Enemy.</item>
+               <item>79 Co. <hi>Hewſon</hi> took the gariſon of <hi>Rothdril.</hi>
+               </item>
+               <item>80 He took alſo agariſon called <hi>Pangers Grandge.</hi>
+               </item>
+               <item>81 Col. <hi>Cook</hi> with Col. <hi>Iefford</hi> took from the <hi>Lord Inchequeen</hi> the gariſon of <hi>R<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nous.</hi>
+               </item>
+               <item>82 They took alſo <hi>Murrough</hi> Gariſon.</item>
+               <item>83 They reduced <hi>Blorney.</hi>
+               </item>
+               <item>84 They alſo took the hold of <hi>Killigraham.</hi>
+               </item>
+               <item>85 <hi>Baltimore</hi> Gariſon was reduced to the L. Lieute.</item>
+               <item>86 The Gariſon at <hi>Caſtlebaven</hi> was ſurrendered to his Excellency.</item>
+               <item>87 His Excellency reduced Caſtle <hi>Mallow.</hi>
+               </item>
+               <item>88 <hi>Morollop</hi> was taken by his Excellency.</item>
+               <item>89 <hi>Caperqueen</hi> alſo was then taken.</item>
+               <item>90 His Excellency took <hi>Drominoſh.</hi>
+               </item>
+               <item>100 <hi>Dungarvon</hi> was alſo taken by his Excellency.</item>
+               <item>101 Cap. <hi>Barrow</hi> ſallyed out of <hi>Arklow</hi> and ſlew di<g ref="char:EOLhyphen"/>vers of the L. of <hi>Ormonds</hi> men that beſieged it.</item>
+               <item>102 Sir <hi>Charles Coot</hi> took in Caſtle <hi>Doe</hi> a ſtrong Port</item>
+               <item>103 The L. Lieu. marching in to <hi>Munſter,</hi> on <hi>Jan.</hi> 13 ſent out 150 foot, and 220 horſe, commanded by Cap. <hi>Wil. Walker,</hi> who took <hi>Tymon</hi> Caſtle kept by Lieu. <hi>Bryan.</hi>
+               </item>
+               <item>104 The 22 of <hi>Ian.</hi> Cap <hi>Wil. Walker</hi> took <hi>Artco<g ref="char:EOLhyphen"/>man</hi> Caſtle, and all thoſe that kept it priſoners, except one that was a Tomy, who was ſlain.</item>
+               <item>105 A party of the Lord <hi>Inchequeens</hi> forces having re<g ref="char:EOLhyphen"/>taken the Caſtle of <hi>Deep,</hi> Col. <hi>Cook.</hi> with Col. <hi>Shelburne</hi> marched thither, and retook it again on <hi>Jan.</hi> the 25</item>
+               <item>106 The Lord Lieutenant took <hi>Kilkenny</hi> Caſtle.</item>
+               <item>107 Cap. <hi>Heibotle,</hi> with Cap. <hi>Thomas Walker,</hi> took the Caſtle of <hi>Ballimore</hi> on the 1 day of <hi>Feb.</hi>
+               </item>
+               <item>108 The L. Lieutenant took <hi>Clogheen</hi> a ſtrong Gariſon</item>
+               <item>109 On <hi>Feb.</hi> a his Excellency took <hi>Mac-mire</hi> Caſtle</item>
+               <item>110 His Excellency alſo took <hi>Raghill</hi> Caſtle wherein were ſome <hi>Ulſter</hi> foot, the Cap. whereof was taken pri<g ref="char:EOLhyphen"/>ſoner before.</item>
+               <item>111 His Excellency took alſo ſome Gariſons of the <hi>White Knights.</hi>
+               </item>
+               <item>112 His Excellency took other Gariſons in <hi>Rochet</hi> County.</item>
+               <item>113 His Excellency reduced all from <hi>Mayallo</hi> to the Shewer ſide.</item>
+               <item>114 The L. <hi>Broghit</hi> took <hi>Oldcaſtle</hi> Town &amp; Gariſon</item>
+               <item>115 His Lordſh. took alſo Sir <hi>Ed. Fitz. barris</hi> Caſtle.</item>
+               <item>116 His Lordſhip took alſo <hi>Mayallo,</hi> and hanged ſix Revolters.</item>
+               <item>117 The L. Lieu took <hi>Fethard,</hi> a Gariſon of <hi>Ormonds.</hi>
+               </item>
+               <item>118 Col. <hi>Cook</hi> reduced the Caſtle of <hi>Ballibock.</hi>
+               </item>
+               <item>119 He reduced <hi>Eniſcorfy</hi> that was betrayed to the enemy.</item>
+               <item>120 Col. <hi>Reynolds</hi> with a party of the L. Lieutenants Forces, routed 100 of the Lord <hi>Aſſories</hi> horſe, and of the Priſoners one Revolter was hanged.</item>
+               <item>121 He reduced the Gariſon at <hi>Butlers</hi> houſe.</item>
+               <item>122 He reduced two places more neer thereby, where 100 were ſlaine.</item>
+               <item>123 He took the Gariſon of <hi>Knocktofec.</hi>
+               </item>
+               <item>124 Col. <hi>Phair</hi> with a party of his Excellencies forces marched to <hi>Carick-mac,</hi> which a party of the Marqueſſe of <hi>Ormonds</hi> had taken, ſurpriſed 60 of them cut of the Gariſon, and cauſed them to ſurrender it to him.</item>
+               <item>125 Major Gen. <hi>Ireton</hi> took <hi>Arfinom</hi> and ſlew 13 of <hi>Ormonds</hi> men in taking it.</item>
+               <item>126 He took a conſiderable Paſſe over the Shewer.</item>
+               <item>127 His Excellency ſettled the County of <hi>Tipperary</hi> all but 7 Gariſons, ſo that they were then to bring in 1500 <hi>l.</hi> a month contribution.</item>
+               <item>128 Col. <hi>Cooke</hi> took <hi>Brownes</hi> Caſtle by ſtorme, <hi>Feb.</hi> 16 where by reaſon of two barrels of powder blown up by the Enemy, there was a greater loſſe in the taking of it, then in taking of <hi>Wexford.</hi>
+               </item>
+               <item>129 On <hi>Feb.</hi> 26 Col. <hi>Hewſon,</hi> with 2000 Foot, and 100 Horſe, tooke Fort <hi>Leaſe</hi> Gariſon.</item>
+               <item>130 He took alſo <hi>Blackreath</hi> Gariſon.</item>
+               <item>131 He then took <hi>K<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lmaog</hi> Gariſon.</item>
+               <item>132 <hi>Feb.</hi> 28. Col. <hi>Hewſon</hi> took the ſtrong Gariſon of <hi>Balaſhamon</hi> in the Bog of <hi>Allen</hi>
+               </item>
+               <item>133 He alſo took <hi>Athy,</hi> a Paſſe upon the <hi>Barrow.</hi>
+               </item>
+               <item>134 About the beginning of <hi>March,</hi> the L. Lieute. took the ſtrong Caſtle of <hi>Chace,</hi> in the Iſland of <hi>Shewer.</hi>
+               </item>
+               <item>135 His Excellency reduced alſo <hi>Kiltenon,</hi> a ſtrong. Caſtle of the Lord <hi>Dunboyuts.</hi>
+               </item>
+               <item>136 His Excellency then alſo took the Caſtle of. <hi>Goldenbridge</hi> upon <hi>Sewer.</hi>
+               </item>
+               <item>137 Alſo he took the Caſtle of <hi>Dundrum.</hi>
+               </item>
+               <item>138 <hi>Bellenokelly</hi> alſo then taken by his Excellency.</item>
+               <item>139 Divers holds alſo t<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken in the County of <hi>Limerick</hi>
+               </item>
+               <item>140 Col. <hi>Crumwel</hi> landed at <hi>Yongball</hi> from <hi>Mitford.</hi> haven with more recruits.</item>
+               <item>141 Divers ſlain at <hi>Clanmell</hi> by the Lord Lieutenants. Fortes before it.</item>
+               <item>142 The Lord <hi>Brogbil,</hi> and Col <hi>Henry Crumwell,</hi> defeated the Lord <hi>Inchequeen</hi> near <hi>Limerick,</hi> ſlew 160 took 120 Priſoners, <hi>viz.</hi> Col. <hi>Thomſon,</hi> Col <hi>Jackſon</hi> and 3 Colonels more, 4 Lieu. Colone's, and others, and took 300 gallapt Horſe.</item>
+               <item>143 Col. <hi>Reynolds</hi> did beat the Earle of <hi>Caſtlehaven</hi> near <hi>Laughlin.</hi>
+               </item>
+               <item>144 <hi>Laughlin</hi> taken by Col. <hi>Hewſon.</hi>
+               </item>
+               <item>145 <hi>Thomas</hi> Town and Caſtle taken by ſtorm.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Hen, Scobel, Cler. Parliament:</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Ibbitſon,</hi> and are to be ſold by <hi>William Ley</hi> at <hi>Pauls</hi> Chain, 1650</p>
+         </div>
+      </back>
+   </text>
+</TEI>
